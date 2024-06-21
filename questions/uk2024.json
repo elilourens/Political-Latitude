@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "question": "Who are you going to vote for in the election?",
+      "answers": [
+        { "text": "Tory", "value": "Tory" },
+        { "text": "Labour", "value": "Labour" },
+        { "text": "SNP", "value": "SNP" },
+        { "text": "LibDem", "value": "LibDem" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What statement aligns the best with your view on immigration?",
+      "answers": [
+        { "text": "Halt all asylum seekers and deport illegals. Halt immigration with exceptions for healthcare workers.", "value": "Reform UK" },
+        { "text": "Deport Illegal immigrants to Rwanda", "value": "Tory" },
+        { "text": "Lower Migration to sustainable levels", "value": "Labour" },
+        { "text": "More Migration they help us not hurt", "value": "SNP" }
+      ]
+    }
+  ]
+  

@@ -1,8 +1,8 @@
 <template>
   <div>
     <div class="homeContent">
-      <h1>Welcome to Political Latitiude.</h1>
-      <p>Find your political match today</p>
+      <h1>Test Your Political Alignment Now.</h1>
+      <p>Welcome to Political Latitude.</p>
       
       <nuxt-link to="/ukTest"><button>Take the UK Test</button></nuxt-link>
     </div>
