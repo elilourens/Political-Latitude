@@ -1,6 +1,0 @@
-Postcode Api key: c9j29dmjd5laz55z22si9ypcb
-
-postcode api key secret: 6cwyewrdsy6gu19sgfutscsno267elogt8s8y42knshgs3326x
-
-https://opendata.camden.gov.uk/profile/edit/developer_settings
-

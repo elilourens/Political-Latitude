@@ -6,7 +6,7 @@
           <img src="~/assets/globe.png" alt="Globe">
           
         </nuxt-link>
-        <p>Political Latitude</p>
+        <p class="logo-text">Political Latitude</p>
 
         
       </div>
