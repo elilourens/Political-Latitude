@@ -1,22 +1,49 @@
 [
     {
       "id": 1,
-      "question": "Who are you going to vote for in the election?",
+      "question": "Which statement aligns closest to your view on what the solution should be for illegal immigration?",
       "answers": [
-        { "text": "Tory", "value": "Tory" },
-        { "text": "Labour", "value": "Labour" },
-        { "text": "SNP", "value": "SNP" },
-        { "text": "LibDem", "value": "LibDem" }
+        { "text": "A relentless, continual process of permanently removing illegal migrants to Rwanda with a regular rhythm of flights every month.", "value": "Tory" },
+        { "text": "Stop the chaos and go after the criminal gangs who trade in driving this crisis. New Enforcement unit to fast-track removals to safe countries for people without right to stay here", "value": "Labour" },
+        { "text": "Scrap the Rwanda scheme and urge the UK Government to grant asylum seekers the right to work and fundamentally change their approach to housing asylum seekers.", "value": "Snp" },
+        { "text": "Scrap the Illegal Migration Act and the Rwanda scheme and provide safe and legal routes to sanctuary for refugees.", "value": "LibDem" },
+        { "text": "Leave the European Convention on Human Rights. Zero illegal immigrants to be resettled in the UK. New Department of Immigration. Pick up illegal migrants out of boats and take them back to France. ", "value": "Reform"}
+        
       ]
     },
     {
       "id": 2,
-      "question": "What statement aligns the best with your view on immigration?",
+      "question": "What parties statement about their plans for the military is the most appealing?",
       "answers": [
-        { "text": "Halt all asylum seekers and deport illegals. Halt immigration with exceptions for healthcare workers.", "value": "Reform UK" },
-        { "text": "Deport Illegal immigrants to Rwanda", "value": "Tory" },
-        { "text": "Lower Migration to sustainable levels", "value": "Labour" },
-        { "text": "More Migration they help us not hurt", "value": "SNP" }
+        { "text": "Increase Defence Spending to 2.5% of National GDP by year 3, then 3% within 6 years. Increase basic pay across our armed forces", "value": "Reform" },
+        { "text": "2.5% of GDP spent on defence by 2030. Support our Trident nuclear deterrent and modernise it. Launch a campaign to set a new baseline of 2.5% for all NATO allies by 2030.", "value": "Tory" },
+        { "text": "Commited to the UKs nuclear deterrent. Conduct a Strategic Defence Review within our first year in government. Set out the path to spending 2.5% of GDP on defence. Meet all Nato Obligations", "value": "Labour" },
+        { "text": "Scrap Trident nuclear deterrent and invest the billions spent instead in public services. Raise the military recruitment age to 18.", "value": "Snp" },
+        { "text": "Get rid of the nuclear weapons we have. The UK to sign the treaty stopping nuclear weapons and get others to stop having them as well.", "value": "Green" },
+        { "text": "Ambition to spend at least 2.5% of GDP on defence. Maintaining the UKs nuclear deterrent with four submarines whilst pursuing multilateral global disarmament. Ambition of getting regular troop numbers to over 100,000.", "value": "LibDem" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What statment aligns most with your opinions on the conflict in Palestine / Israel?",
+      "answers": [
+        { "text": "Push for Immediate Ceasefire. Call for release of hostages. Recognizing a Palestinian State and a two state solution.", "value": "Labour" },
+        { "text": "Demand Ceasefire and release of hostages. End all arms sales to Israel. Recognise Palestine as Independant state.", "value": "Snp" },
+        { "text": "Stand behind Israels right to defend itself. Push for two state solution. Support aid for those affected by conflict.", "value": "Tory" },
+        { "text": "Push for an end to the fighting. Stop selling arms to Israel. Make Israel give Palestinian land back. Give UN aid organisation money again.", "value": "Green" },
+        { "text": "Advocate for immediate ceasefire. Get the hostages out and provide space to reach a two-state solution.", "value": "LibDem"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What statement aligns with your opinions on the future of transport in the UK?",
+      "answers": [
+        { "text": "Public ownership of rail services. establish a new Low Income EV Car Leasing Fund. Fulfil the commitment to fund improvements to the A75.", "value": "Snp" },
+        { "text": "Save £25 Billion by scrapping rest of HS2 project. Ban ULEZ Clean Air Zones. Extend rail and bus services in the Midlands, Wales and Coastal regions.", "value": "Reform" },
+        { "text": "Spend £36 billion of HS2 savings on other transport projects. £44 billion of funding for Network Rail and the Transpennine Route Upgrade to introduce Northern Powerhouse Rail. Complete HS2 between London Euston and the West Midlands.", "value": "Tory" },
+        { "text": "Cheaper public transport. More bus and train services. Free bus travel for anyone under 18. New cyclepaths and footpaths.", "value": "Green" },
+        { "text": "Postpone the A27 bypass. Help with the rising cost of insurance. Bring railways into public ownership again under Great British Railways.", "value": "Labour" },
+        { "text": "Make it cheaper to swap to Electric cars. Freeze rail fares prices. Electrify more of the rail network and deliver Northern Powerhouse rail. Reduce number of flights. New cycling and walking networks.", "value": "LibDem" }
       ]
     }
   ]
