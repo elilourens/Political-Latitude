@@ -1,9 +1,12 @@
 <template>
-  <div class="homebackGround">
+  <div class="homeBackground">
     
     <div class="homeContent">
-      <h1>Test Your Political Alignment Now.</h1>
-      <p>Welcome to Political Latitude.</p>
+      <div class="homeHeaders">
+        <h1>Test Your Political Alignment Now.</h1>
+        <p>Welcome to Political Latitude.</p>
+      </div>
+      
       
       <nuxt-link to="/ukTest"><button class="pinkButton">Take the UK Test</button></nuxt-link>
     </div>

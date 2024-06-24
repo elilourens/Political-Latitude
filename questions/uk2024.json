@@ -45,6 +45,96 @@
         { "text": "Postpone the A27 bypass. Help with the rising cost of insurance. Bring railways into public ownership again under Great British Railways.", "value": "Labour" },
         { "text": "Make it cheaper to swap to Electric cars. Freeze rail fares prices. Electrify more of the rail network and deliver Northern Powerhouse rail. Reduce number of flights. New cycling and walking networks.", "value": "LibDem" }
       ]
+    },
+    {
+      "id": 5,
+      "question": "What statement aligns the most with your idea of how to help the education sector?",
+      "answers": [
+        { "text": "Qualified mental health professional in every primary and secondary school. Increase school and college funding per pupil.", "value": "LibDem" },
+        { "text": "Spend more money on Schools. Pay Teachers more. Stop Tuition fees. stop testing as it doesn’t do anygood, and scrap OFSTED. ", "value": "Green" },
+        { "text": "Scrap Interest on Student Loans. Universities must offer 2 year undergrad courses. Teaching British or Eurpean Imperialism must be paired with a non-European occurence for balance. Ban Transgender Ideology in schools. Tax relief of 20% on private schools. ", "value": "Reform" },
+        { "text": "Free University Tuition.", "value": "Snp" },
+        { "text": "Ban mobile Phones in school. Have transparency in teaching content related to sex education. Fund 100,000 Apprenticeships. Curb number of poor-quality university degrees.", "value": "Tory" },
+        { "text": "Recruit 6500 new expert teachers. Free breakfast clubs in all primary schools. 3000 new school-based nurseries. New 20% VAT on private school fees to fund public schools. ", "value": "Labour" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What statement aligns the most with your beliefs on LGBT+ issues.",
+      "answers": [
+        { "text": "Make all LGBT+ hatecrimes an aggravated offence. Ban on conversion therapy. Reform gender recognition laws. ", "value": "Labour" },
+        { "text": "Defend the rights of all sexual orientations. Ban conversion therapy. Give police and prosecutors training to prevent and prosecute hatecrimes.", "value": "LibDem" },
+        { "text": "Take a stand against hatecrimes. Allow trans and non-binary people to say who they are.", "value": "Green" },
+        { "text": "Ban transgender ideology in schools.", "value": "Reform" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What statement aligns with your views of the future of policing in the UK?",
+      "answers": [
+        { "text": "Scrap laws which stop people's right to protest. Help the public trust the police more. Pay for new courts.", "value": "Green" },
+        { "text": "Recruit 8000 more full-time police officers. Hotspot policing to cut anti-social behaviour in town centres.", "value": "Tory" },
+        { "text": "Recruit thousands of officers. Holding companies and executives profiting on knife crime to account. Visible neighbourhood policing. Introducing Respect Orders: powers to ban persistent adult offenders from town centres", "value": "Labour" },
+        { "text": "40 000 new front-line officers. Increase stop and search substantially. Prison for possessing a knife. Scrap all Diversity Equity and Inclusion roles. Stricter entry requirements.", "value": "Reform" },
+        { "text": "Restore proper community policing. Create guarantee that all burglaries will be attended by police. Tackle repeat offenders by improving rehabilitation.  ", "value": "LibDem" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What statement aligns with your beliefs on Britains role in helping deal with the climate crises.",
+      "answers": [
+        { "text": "Have new laws giving nature its own rights. Stop sewage in our rivers and seas. New law to make the air cleaner.", "value": "Green" },
+        { "text": "Preserve the Green Belt. Tackle the nature emergency including the pollution of rivers and seas. We will make sure the country meets collective obligations to future generations.", "value": "Labour" },
+        { "text": "Protect the Green Belt from uncontrolled development. Launch seaside heritage fund to protect coastal assets. Protect the blue belt. Stopping deep sea mining. ", "value": "Tory" },
+        { "text": "End the sewage scandal banning bonuses for water bosses. Double the size of the protected wildlife area network by 2050. Plant 60 million trees a year. Enfore a new air quality agency.", "value": "LibDem" },
+        { "text": "Establish a four nations climate response group to agree climate plans across the UK. Ease animal exports to and from the EU.", "value": "Snp" },
+        { "text": "Ditch Net Zero saving £30 Billion a year.", "value": "Reform" }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What statement aligns with your vision of the UK's energy sector.",
+      "answers": [
+        { "text": "Scrap £10 Billion of renewable subsidies. Fast track licences of North Sea gas and oil. Fast track nuclear energy with small modular reactors. Scrap all Net Zero pledges saving £30 Billion per year.", "value": "Reform" },
+        { "text": "Committed to Net Zero by 2050. Annual licensing rounds for oil and gas production in the North Sea. New Gas Power stations to prevent blackouts. Treble our offshore wind capacity. Build first two carbon capture storage clusters.", "value": "Tory" },
+        { "text": "Most of our energy must come from wind by 2030. More solar power plants. More battery storage sites. Stop all drilling for oil and gas. Shut down nuclear power plants.", "value": "Green" },
+        { "text": "Invest in renewables until 90% of UK's power is from renewables. Drive a rooftop solar revolution. Free insulation for those on low-income.", "value": "LibDem" },
+        { "text": "Double onshore wind, Quadruple offshore wind and Triple solar power. Create a new publicly owned company, Great British Energy to deliver clean power by co-investing in leading tech.", "value": "Labour" },
+        { "text": "Rule out new nuclear power plants. Promote hydrogen export potential. Evidance based approach to new oil and gas licences. Need signifigant growth in renewables, storage, hydrogen and carbon capture.", "value": "Snp" }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "",
+      "answers": [
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "",
+      "answers": [
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "",
+      "answers": [
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" }
+      ]
     }
   ]
   

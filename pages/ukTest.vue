@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="homeBackground">
       <div class="ukTestContent">
         <div v-if="!showTest">
           <h2>Lets get Started.</h2>
@@ -19,16 +19,19 @@
     </div>
   </div>
   <div class="answers-container">
-    <div class="answer-box" v-for="(answer, index) in questions[currentQuestionIndex].answers" :key="index" @click="selectAnswer(answer.value)">
+    <div class="answer-box" :class="{ 'selected': selectedAnswer === index }" v-for="(answer, index) in questions[currentQuestionIndex].answers" :key="index" @click="selectAnswer(index)">
       <p>{{ answer.text }}</p>
     </div>
   </div>
 </div>
-
+<div class="submitButtonContainer">
+  <button class="pinkButton">Submit Answer.</button>
+</div>
 
       </div>
     </div>
 </template>
+
 <script>
 import { getConstituencyByPostcode } from "@/services/postcodeService.js";
 import questions from '@/questions/uk2024.json';
@@ -42,6 +45,7 @@ export default{
       showTest: true,
       currentQuestionIndex: 0,
       questions: questions,
+      selectedAnswer: null,
     };
     },
     methods: {
@@ -58,6 +62,9 @@ export default{
     submitConstituency(){
       //save to local storage?
       this.showTest = true;
+    },
+    selectAnswer(index) {
+      this.selectedAnswer = index;  // Update the selected answer on click
     },
 
     },
