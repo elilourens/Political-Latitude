@@ -2,17 +2,17 @@
   <div class="header">
     <div class="navbar">
       <div class="nav-section">
-        <nuxt-link to="/">
+        <button @click="forceNavigate()" class="invisibleButton">
           <img src="~/assets/globe.png" alt="Globe">
           
-        </nuxt-link>
-        <p class="logo-text">Political Latitude</p>
+        </button>
+        <p class="logo-text"><strong>Political Latitude</strong></p>
 
         
       </div>
       <div class="nav-section">
-        <p>Data</p>
-        <p>Country List</p>
+        <p><strong>Data</strong></p>
+        <p><strong>Country List</strong></p>
       </div>
     </div>
   </div>
@@ -20,7 +20,14 @@
     
   </template>
   
-  <style scoped>
-  
-  </style>
+<script>
+export default {
+  name: 'NavBar',
+  methods: {
+    forceNavigate() {
+      window.location.href = '/';
+    }
+  }
+}
+</script>
   

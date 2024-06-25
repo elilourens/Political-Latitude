@@ -1,14 +1,14 @@
 // services/postcodeService.js
 import axios from 'axios';
 
-const API_URL = 'https://opendata.camden.gov.uk/resource/tr8t-gqz7.json';
-const APP_TOKEN = 'VBLe8A55rfjbnjXDyFNP0GQYX';
+const url = process.env.API_URL;
+const token = process.env.APP_TOKEN;
 
 export const getConstituencyByPostcode = async (postcode) => {
   try {
-    const response = await axios.get(`${API_URL}?postcode_1=${postcode}`, {
+    const response = await axios.get(`${url}?postcode_1=${postcode}`, {
       headers: {
-        'X-App-Token': APP_TOKEN,
+        'X-App-Token': token,
       },
     });
 

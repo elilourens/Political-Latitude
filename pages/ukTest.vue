@@ -6,6 +6,7 @@
           <h3>For accurate results enter your post code.</h3>
           <input v-model="postcode" placeholder="Enter postcode" />
           <button @click="lookupConstituency">Look up</button>
+          <button @click="submitConstituency()">Not from the UK?</button>
           <p v-if="constituency">Constituency: {{ constituency }}</p>
           <p v-else-if="error">{{ error }}. Try different format or use all caps.</p>  
           <button v-if="constituency" @click="submitConstituency()">Yes, this is correct.</button>
@@ -42,7 +43,7 @@ export default{
       postcode: '',
       constituency: null,
       error: null,
-      showTest: true,
+      showTest: false,
       currentQuestionIndex: 0,
       questions: questions,
       selectedAnswer: null,
