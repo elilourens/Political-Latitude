@@ -105,17 +105,38 @@
     },
     {
       "id": 10,
-      "question": "",
+      "question": "How should Britian contribute to foreign countries in need?",
       "answers": [
-        { "text": "", "value": "" },
-        { "text": "", "value": "" },
-        { "text": "", "value": "" },
-        { "text": "", "value": "" },
-        { "text": "", "value": "" }
+        { "text": "Immediately restore and maintain the UK international aid budget to 0.7%.", "value": "Snp" },
+        { "text": "Cut Foreign aid by 50% saving £6 Bilion. Review effectiveness of foreign aid.", "value": "Reform" },
+        { "text": "Contribute more aid to developing countries to go green and more aid to the new Loss and Damage fund.", "value": "Green" },
+        { "text": "By returning spending to 0.7% of national income and re-establishing an independent international development department", "value": "LibDem" }
       ]
     },
     {
       "id": 11,
+      "question": "What statement aligns with your view of future taxes in the UK?",
+      "answers": [
+        { "text": "Lift the income tax to start at £20 000. Cut Energy Taxes. Scrap VAT on energy bills. Cut stamp duty on houses under 750k to 0%. Abolish Inheritance tax for estate under £2 Million.", "value": "Reform" },
+        { "text": "Cut 2p off National Insurance saving the average worker £1350. Cut tax for pensioners.", "value": "Tory" },
+        { "text": "Tax the rich more and make sure average earners are taxed fairly.", "value": "Green" },
+        { "text": "Reversing the tax cuts for big banks and imposing a one-off windfall tax on the super-profits of oil and gas.", "value": "LibDem" },
+        { "text": "Not increase taxes on working people.We will end the use of offshore trusts to avoid inheritance tax.", "value": "Labour" }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "What statement aligns with economic changes you think will benefit the UK the most?",
+      "answers": [
+        { "text": "Introduced the biggest business tax cut in modern British history. Improve access to finance for SMEs. Secure a £250 million Invest In Women Fund.", "value": "Tory" },
+        { "text": "Establish a National Wealth Fund making transformative investments in the the automative, steel and green hydrogen industries. Cap corporation tax at the current level of 25 per cent.", "value": "Labour" },
+        { "text": "Abolish Business rates for high street stores offset this with Online Delivery Tax at 4% for large enterprises. Lift the VAT Threshold to £150,000. Lift the minimum profit threshold to £100k for corporation tax.", "value": "Reform" },
+        { "text": "Abolishing business rates and replacing them with a Commercial Landowner Levy.", "value": "LibDem" },
+        { "text": "Introduce a lower rate of VAT for hospitality and tourism. Remove VAT from on-street electric vehicle charging. End the VAT exemption for private schools.", "value": "" }
+      ]
+    },
+    {
+      "id": 13,
       "question": "",
       "answers": [
         { "text": "", "value": "" },
@@ -126,7 +147,29 @@
       ]
     },
     {
-      "id": 12,
+      "id": 14,
+      "question": "",
+      "answers": [
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "",
+      "answers": [
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" },
+        { "text": "", "value": "" }
+      ]
+    },
+    {
+      "id": 16,
       "question": "",
       "answers": [
         { "text": "", "value": "" },
