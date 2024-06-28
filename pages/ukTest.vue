@@ -1,5 +1,5 @@
 <template>
-  <div class="homeBackground">
+  <div class="">
     <div class="ukTestContent">
       <div v-if="!showTest">
         <h2>Lets get Started.</h2>
@@ -26,7 +26,7 @@
         </div>
       </div>
       <div v-if="showTest" class="submitButtonContainer">
-        <button class="pinkButton" @click="submitAnswer()">Submit Answer.</button>
+        <button class="" @click="submitAnswer()">Submit Answer.</button>
       </div>
     </div>
   </div>

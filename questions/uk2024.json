@@ -132,29 +132,29 @@
         { "text": "Establish a National Wealth Fund making transformative investments in the the automative, steel and green hydrogen industries. Cap corporation tax at the current level of 25 per cent.", "value": "Labour" },
         { "text": "Abolish Business rates for high street stores offset this with Online Delivery Tax at 4% for large enterprises. Lift the VAT Threshold to £150,000. Lift the minimum profit threshold to £100k for corporation tax.", "value": "Reform" },
         { "text": "Abolishing business rates and replacing them with a Commercial Landowner Levy.", "value": "LibDem" },
-        { "text": "Introduce a lower rate of VAT for hospitality and tourism. Remove VAT from on-street electric vehicle charging. End the VAT exemption for private schools.", "value": "" }
+        { "text": "Introduce a lower rate of VAT for hospitality and tourism. Remove VAT from on-street electric vehicle charging. End the VAT exemption for private schools.", "value": "Snp" }
       ]
     },
     {
       "id": 13,
-      "question": "",
+      "question": "What statement aligns with your view of the path to fixing the NHS's doctor and nurse shortages?",
       "answers": [
-        { "text": "", "value": "" },
-        { "text": "", "value": "" },
-        { "text": "", "value": "" },
-        { "text": "", "value": "" },
-        { "text": "", "value": "" }
+        { "text": "Frontline NHS and social care staff to pay zero basic rate tax. Write off student fees pro rata per year over 10 years of NHS service for all doctors, nurses and medical staff.", "value": "Reform" },
+        { "text": "We will pay NHS staff more.", "value": "Green" },
+        { "text": "Recruit 8500 more mental health staff. Create a National Care Service, underpinned by national standards, delivering consistency of care across the country.", "value": "Labour" },
+        { "text": "8,000 more GPs.", "value": "LibDem" },
+        { "text": "92,000 more nurses and 28,000 more doctors. Bring in more workers from abroad.", "value": "Tory" }
       ]
     },
     {
       "id": 14,
-      "question": "",
+      "question": "What statement aligns with your views of the path forward for the NHS.",
       "answers": [
-        { "text": "", "value": "" },
-        { "text": "", "value": "" },
-        { "text": "", "value": "" },
-        { "text": "", "value": "" },
-        { "text": "", "value": "" }
+        { "text": "Same day GP services available to all. NHS dentistry for all easy availible.", "value": "Green" },
+        { "text": "Invest £300m to drive down waiting times. Boost NHS spending by a minimum of £10bn extra each year.", "value": "Snp" },
+        { "text": "NHS Patients will receive a voucher for free private treatment if they can’t see a GP within 3 days. For a consultant it would be 3 weeks. For an operation, 9 weeks.", "value": "Reform" },
+        { "text": "Increase NHS spending above inflation every year. deliver 40 new hospitals by 2030. Patient premium to encourage dentists to take on new NHS patients. Build or modernise 250 GP surgeries.", "value": "Tory" },
+        { "text": "Double the number of CT and MRI scanners. Guarantee a face-to-face GP appointment for all those who want one. reform the dental contract, with a shift to focusing on prevention and the retention of NHS dentists ", "value": "Labour" }
       ]
     },
     {
